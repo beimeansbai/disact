@@ -1,0 +1,7 @@
+git clone git@github.com:beimeansbai/disact.git
+cd ./disact
+cd ./.git/info
+echo "* filter=test" >> attributes
+git config filter.test.process "/home/xx/gittest/test1/disact/filter.pl"
+12
+2
