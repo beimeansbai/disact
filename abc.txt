@@ -1,6 +1,1 @@
-git clone git@github.com:beimeansbai/disact.git
-cd ./disact
-cd ./.git/info
-echo "* filter=test" >> attributes
-git config filter.test.process "/home/xx/gittest/test1/disact/filter.pl"
-
+file id:25d16cbc120137b60a2931fe6fc14a7f20fa499edisactabc.txt
