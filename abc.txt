@@ -1,6 +1,5 @@
-git clone git@github.com:beimeansbai/disact.git
-cd ./disact
-cd ./.git/info
-echo "* filter=test" >> attributes
-git config filter.test.process "/home/xx/gittest/test1/disact/filter.pl"
-1
+wp: security_team and (abc or (hire_data and business_staff))
+rp: (A1 and A2) or (A5 or (A6 and A7))
+11112222estsduovbnl111dohbvnj;zsm;zlxojshdhfbusgyifsgdiyhvbsudobcjsdunc woewubfywebcjsdoibscdhwb ihkscdbvuwgofirueoihcincsjkxbcouheuo
+test
+12345678901234567890
