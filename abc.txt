@@ -1,6 +1,13 @@
+path:abc.txt
+commit:25d16cbc120137b60a2931fe6fc14a7f20fa499e
+enc+sig:
+base hash: 25d16cbc120137b60a2931fe6fc14a7f20fa499edisact
+file id: 25d16cbc120137b60a2931fe6fc14a7f20fa499edisactabc.txt
 wp: security_team and (abc or (hire_data and business_staff))
 rp: (A1 and A2) or (A5 or (A6 and A7))
-11112222estsduovbnl111dohbvnj;zsm;zlxojshdhfbusgyifsgdiyhvbsudobcjsdunc woewubfywebcjsdoibscdhwb ihkscdbvuwgofirueoihcincsjkxbcouheuo
-test
-12345678901234567890
-1
+plt:wp: security_team and (abc or (hire_data and business_staff))
+plt:rp: (A1 and A2) or (A5 or (A6 and A7))
+plt:11112222estsduovbnl111dohbvnj;zsm;zlxojshdhfbusgyifsgdiyhvbsudobcjsdunc woewubfywebcjsdoibscdhwb ihkscdbvuwgofirueoihcincsjkxbcouheuo
+plt:test
+plt:12345678901234567890
+plt:123
